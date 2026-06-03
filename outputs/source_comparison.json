@@ -1,0 +1,20 @@
+{
+    "HackerNews": {
+        "AI": 51,
+        "Programming": 14,
+        "Security": 5,
+        "Startups": 2
+    },
+    "TechCrunch": {
+        "AI": 12,
+        "Programming": 0,
+        "Security": 2,
+        "Startups": 5
+    },
+    "GitHub": {
+        "AI": 5,
+        "Programming": 1,
+        "Security": 0,
+        "Startups": 0
+    }
+}

@@ -1,0 +1,1866 @@
+[
+    {
+        "title":"Gemma 4 12B: A unified, encoder-free multimodal model",
+        "author":"rvz",
+        "score":273.0,
+        "url":"https:\/\/blog.google\/innovation-and-ai\/technology\/developers-tools\/introducing-gemma-4-12b\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"ESP32-S31",
+        "author":"volemo",
+        "score":120.0,
+        "url":"https:\/\/www.espressif.com\/en\/products\/socs\/esp32-s31",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"DaVinci Resolve 21",
+        "author":"pentagrama",
+        "score":213.0,
+        "url":"https:\/\/www.blackmagicdesign.com\/products\/davinciresolve\/whatsnew",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"I was recently diagnosed with anti-NMDA receptor encephalitis",
+        "author":"Tomte",
+        "score":50.0,
+        "url":"https:\/\/burntsushi.net\/encephalitis\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Hacking your PC using your speaker without ever touching it",
+        "author":"xx_ns",
+        "score":500.0,
+        "url":"https:\/\/blog.nns.ee\/2026\/06\/03\/katana-badusb\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Launch HN: Hyper (YC P26) \u2013 Company brain to power agentic development",
+        "author":"shalinshah",
+        "score":8.0,
+        "url":null,
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"A Post-Quantum Future for Let's Encrypt",
+        "author":"SGran",
+        "score":107.0,
+        "url":"https:\/\/letsencrypt.org\/2026\/06\/03\/pq-certs",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers",
+        "author":"suchintan",
+        "score":1.0,
+        "url":"https:\/\/www.ycombinator.com\/companies\/skyvern\/jobs\/1qRTlVx-founding-developer-marketing-open-source-ai",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Nutrepedia \u2013 nutrition info in 29 locales built with Clojure and Htmx",
+        "author":"llovan",
+        "score":23.0,
+        "url":"https:\/\/nutrepedia.com\/en-us\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Gooey: A GPU-accelerated UI framework for Zig",
+        "author":"ksec",
+        "score":8.0,
+        "url":"https:\/\/github.com\/duanebester\/gooey",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Fluid Simulation for Dummies",
+        "author":"sebg",
+        "score":21.0,
+        "url":"https:\/\/www.mikeash.com\/pyblog\/fluid-simulation-for-dummies.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Meta workers can opt out of being tracked at work up to 30 min",
+        "author":"reconnecting",
+        "score":488.0,
+        "url":"https:\/\/www.bbc.com\/news\/articles\/c93x0k194yno",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Every Byte Matters",
+        "author":"ingve",
+        "score":189.0,
+        "url":"https:\/\/fzakaria.com\/2026\/06\/01\/every-byte-matters",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Rscrypto, pure-Rust crypto with industry leading public benches",
+        "author":"LoadingALIAS",
+        "score":13.0,
+        "url":"https:\/\/github.com\/loadingalias\/rscrypto",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"PlayStation Architecture",
+        "author":"gregsadetsky",
+        "score":179.0,
+        "url":"https:\/\/www.copetti.org\/writings\/consoles\/playstation\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Angular v22",
+        "author":"Klaster_1",
+        "score":11.0,
+        "url":"https:\/\/blog.angular.dev\/announcing-angular-v22-c52bb83a4664",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"1-Click GitHub Token Stealing via a VSCode Bug",
+        "author":"ammar2",
+        "score":603.0,
+        "url":"https:\/\/blog.ammaraskar.com\/github-token-stealing\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"MacBook Neo Is So Popular That Apple Doubled Production",
+        "author":"tosh",
+        "score":49.0,
+        "url":"https:\/\/www.macrumors.com\/2026\/06\/03\/macbook-neo-production-doubled-says-kuo\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Edsger \u2013 A handwritten Clojure REPL for the reMarkable 2",
+        "author":"nathell",
+        "score":203.0,
+        "url":"https:\/\/handwritten.danieljanus.pl\/2026-06-01-edsger.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Sixteen Kids and a Hit Man (2024)",
+        "author":"Michelangelo11",
+        "score":5.0,
+        "url":"https:\/\/nymag.com\/intelligencer\/article\/christopher-pence-corderos-fbi-dark-web-hit-man.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"If AI data centers are so great, why are they being built in secret?",
+        "author":"thisislife2",
+        "score":57.0,
+        "url":"https:\/\/www.thebrockovichreport.com\/p\/if-data-centers-are-so-great-why",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Nabokov's pale fire: the lost 'father of all hypertext demos'? (2011)",
+        "author":"aragonite",
+        "score":96.0,
+        "url":"https:\/\/dl.acm.org\/doi\/pdf\/10.1145\/1995966.1996008",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Public Should Own Half of the Big A.I. Companies",
+        "author":"droidjj",
+        "score":84.0,
+        "url":"https:\/\/www.sanders.senate.gov\/op-eds\/the-public-should-own-half-of-the-big-a-i-companies\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"I built a ceiling projection mapping of the planes flying over my house",
+        "author":"frereubu",
+        "score":172.0,
+        "url":"https:\/\/old.reddit.com\/r\/nextfuckinglevel\/comments\/1tvmcin\/i_live_in_the_take_off_path_of_sfo_and_built_a\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Use your Nvidia GPU's VRAM as swap space on Linux",
+        "author":"tanelpoder",
+        "score":425.0,
+        "url":"https:\/\/github.com\/c0dejedi\/nbd-vram",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: I reverse-engineered the world maps of Test Drive III (1990 DOS game)",
+        "author":"s-macke",
+        "score":180.0,
+        "url":"https:\/\/github.com\/s-macke\/Test-Drive-3-Maps",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"What I've learned about the trombone",
+        "author":"bookofjoe",
+        "score":58.0,
+        "url":"http:\/\/bryanhu.com\/blog\/posts\/what-ive-learned-about-the-trombone\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"32GB of DDR5 now costs $375 \u2013 AI shortage continues to squeeze PC building",
+        "author":"papersail",
+        "score":262.0,
+        "url":"https:\/\/www.tomshardware.com\/pc-components\/ddr5\/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"MAI-Code-1-Flash",
+        "author":"EvanZhouDev",
+        "score":519.0,
+        "url":"https:\/\/microsoft.ai\/news\/introducingmai-code-1-flash\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Turkey Hacked the Hair Transplant Industry",
+        "author":"joozio",
+        "score":57.0,
+        "url":"https:\/\/www.wired.com\/story\/how-turkey-hacked-the-hair-transplant-industry\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"REST3D: Reconstructing Physically Stable 3D Scenes from a Single Image",
+        "author":"ibobev",
+        "score":14.0,
+        "url":"https:\/\/shirleymaxx.github.io\/REST3D\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Unreasonable Redundancy of Nature's Protein Folds",
+        "author":"ray__",
+        "score":147.0,
+        "url":"https:\/\/research.ligo.bio\/posts\/unreasonable-redundancy-of-natural-protein-folds\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"U of T researchers demonstrate AI worm could target any online device",
+        "author":"shscs911",
+        "score":125.0,
+        "url":"https:\/\/www.utoronto.ca\/news\/u-t-researchers-demonstrate-ai-worm-could-target-any-online-device",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Gmail thinks I'm stupid, so I left",
+        "author":"speckx",
+        "score":1118.0,
+        "url":"https:\/\/moddedbear.com\/gmail-thinks-im-stupid-so-i-left",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Leiden Declaration on Artificial Intelligence and Mathematics",
+        "author":"zvr",
+        "score":108.0,
+        "url":"https:\/\/leidendeclaration.ai\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"AI outperforms law professors in Stanford Law study",
+        "author":"berlianta",
+        "score":381.0,
+        "url":"https:\/\/law.stanford.edu\/press\/ai-outperforms-law-professors-in-stanford-law-study\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Facing life-threatening miscarriage in Arkansas, calls to governor didn't help",
+        "author":"orwin",
+        "score":8.0,
+        "url":"https:\/\/www.cnn.com\/2026\/05\/28\/health\/arkansas-miscarriage-abortion-ban-propublica",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"DIY Bipedal Robot Used Pneumatic \"Air-Muscles\" Instead of Motors",
+        "author":"sohkamyung",
+        "score":68.0,
+        "url":"https:\/\/spectrum.ieee.org\/shadow-walker-biped-humanoid-robot",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Thomas Mann: Goethe Heartened by Panama (As Suez for English, or Danube-Rhine)",
+        "author":"curio_Pol_curio",
+        "score":21.0,
+        "url":"https:\/\/yalereview.org\/article\/thomas-mann-goethe",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Pluto.jl 1.0 release \u2013 reactive notebook for Julia",
+        "author":"fons-p",
+        "score":203.0,
+        "url":"https:\/\/discourse.julialang.org\/t\/pluto-1-0-release\/137296",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Roku LT Operating System open source distribution",
+        "author":"dpmdpm",
+        "score":119.0,
+        "url":"https:\/\/blog.roku.com\/developer\/roku-lt-os",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"SpaceX's IPO is a disaster waiting to happen for your pension fund",
+        "author":"anonymousDan",
+        "score":21.0,
+        "url":"https:\/\/www.irishtimes.com\/business\/2026\/06\/03\/heavily-in-debt-loss-making-with-eyes-on-sending-people-to-mars-why-would-anyone-invest-in-spacex\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Capstone \u2013 multi-platform, multi-architecture disassembly framework",
+        "author":"gregsadetsky",
+        "score":100.0,
+        "url":"https:\/\/www.capstone-engine.org\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Tesla retroactively added 'supervised' to FSD contracts owners signed years ago",
+        "author":"breve",
+        "score":32.0,
+        "url":"https:\/\/electrek.co\/2026\/06\/03\/tesla-retroactively-modified-fsd-contracts-supervised\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Solving complex optimization problems with Google OR-Tools in browser",
+        "author":"AxelWickman",
+        "score":6.0,
+        "url":"https:\/\/github.com\/Axelwickm\/or-tools-wasm",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Uber cuts 23% of people division as new president takes over",
+        "author":"heldrida",
+        "score":59.0,
+        "url":"https:\/\/www.bloomberg.com\/news\/articles\/2026-06-03\/uber-cuts-23-of-people-division-as-new-president-takes-charge",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"How we index images for RAG",
+        "author":"mooreds",
+        "score":192.0,
+        "url":"https:\/\/www.kapa.ai\/blog\/how-we-index-images-for-rag",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Lean Inference: Lean Manufacturing Principles Applied to AI",
+        "author":"robmay",
+        "score":4.0,
+        "url":"https:\/\/neurometric.substack.com\/p\/lean-inference-workflows-applying",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"I believe a whole generation of developers miss how open source used to work",
+        "author":"tosh",
+        "score":8.0,
+        "url":"https:\/\/twitter.com\/mitsuhiko\/status\/2062181646804152626",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"My thoughts after using Clojure for about a month",
+        "author":"speckx",
+        "score":305.0,
+        "url":"https:\/\/www.acdw.net\/clojure\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Tired of duct-taping access control into agent prompts. Here's the fix",
+        "author":"zwigglers",
+        "score":16.0,
+        "url":"https:\/\/github.com\/yaodub\/cast",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Are You Enjoying Our Linguine? (2025)",
+        "author":"NaOH",
+        "score":40.0,
+        "url":"https:\/\/www.thedial.world\/articles\/news\/american-tourists-rome",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"HP re-releases classic computer science calculator: The HP-16C",
+        "author":"dm319",
+        "score":201.0,
+        "url":"https:\/\/hpcalcs.com\/product\/hp-16c-collectors-edition\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Preparing for KDE Plasma's Last X11-Supported Release",
+        "author":"jandeboevrie",
+        "score":221.0,
+        "url":"https:\/\/blog.davidedmundson.co.uk\/blog\/596\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Writing Portable ARM64 Assembly (2023)",
+        "author":"luu",
+        "score":54.0,
+        "url":"https:\/\/ariadne.space\/2023\/04\/12\/writing-portable-arm-assembly.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"OpenFOV \u2013 Webcam head tracking for iRacing",
+        "author":"mwit2023",
+        "score":138.0,
+        "url":"https:\/\/www.openfov.com\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Open Repair Data Standard",
+        "author":"cassepipe",
+        "score":149.0,
+        "url":"https:\/\/openrepair.org\/open-data\/open-standard\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Words of Type",
+        "author":"tobr",
+        "score":116.0,
+        "url":"https:\/\/wiki.wordsoftype.com\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Fidonet: Technology, Use, Tools, and History (1993)",
+        "author":"BruceEel",
+        "score":178.0,
+        "url":"https:\/\/www.fidonet.org\/inet92_Randy_Bush.txt",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Recovering Eric Graham's 1987 Amiga Juggler raytracer source code",
+        "author":"mariuz",
+        "score":33.0,
+        "url":"https:\/\/alphapixeldev.com\/recovering-eric-grahams-1987-amiga-juggler-raytracer-source-code\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"CT scans of BYD car parts",
+        "author":"viasfo",
+        "score":465.0,
+        "url":"https:\/\/www.lumafield.com\/scan-of-the-month\/byd",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Trump signs downsized AI order after weeks of reversals",
+        "author":"_alternator_",
+        "score":224.0,
+        "url":"https:\/\/www.politico.com\/news\/2026\/06\/02\/trump-signs-downsized-ai-order-00946389",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Muxcard, a DIY credit card size computer",
+        "author":"sargstuff",
+        "score":267.0,
+        "url":"https:\/\/github.com\/krauseler\/muxcard",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Instant DBML Schema to Database Diagram PNG Tool",
+        "author":"SsgMshdPotatoes",
+        "score":5.0,
+        "url":"https:\/\/vibe-schema.com\/dbml-to-png",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Stop Ruining It",
+        "author":"herbertl",
+        "score":302.0,
+        "url":"https:\/\/seths.blog\/2026\/06\/stop-ruining-it\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Multicore suppport for DOS is real \u2013 partly",
+        "author":"beebix",
+        "score":90.0,
+        "url":"https:\/\/www.vogons.org\/viewtopic.php?t=111336",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"German startup advancing compressor-free electrocaloric heat pump technology",
+        "author":"rustoo",
+        "score":34.0,
+        "url":"https:\/\/www.pv-magazine.com\/2026\/06\/02\/german-startup-advancing-compressor-free-electrocaloric-heat-pump-technology\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"4K years ago, Mohenjo-daro grew more equal over time",
+        "author":"marojejian",
+        "score":113.0,
+        "url":"https:\/\/archaeologymag.com\/2026\/05\/mohenjo-daro-grew-more-equal-over-time\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The newest Instagram \u201cexploit\u201d is the goofiest I've seen",
+        "author":"ssiddharth",
+        "score":2166.0,
+        "url":"https:\/\/www.0xsid.com\/blog\/meta-account-takeover-fiasco",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Man out of Time: The travels and ecstasies of a Russian aesthete",
+        "author":"lermontov",
+        "score":15.0,
+        "url":"https:\/\/lareviewofbooks.org\/article\/evocations-italy-pavel-muratov-russian-travel-modernism-art\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Squillions: How money laundering won",
+        "author":"rwmj",
+        "score":194.0,
+        "url":"https:\/\/www.lrb.co.uk\/the-paper\/v48\/n09\/john-lanchester\/squillions",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Eyeball",
+        "author":"mrroryflint",
+        "score":271.0,
+        "url":"https:\/\/eyeball.rory.codes\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Adafruit receives demand letter from Fenwick legal counsel on behalf of Flux.ai",
+        "author":"semanser",
+        "score":665.0,
+        "url":"https:\/\/blog.adafruit.com\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Live breath detection and biofeedback from a phone microphone",
+        "author":"felixzeller",
+        "score":57.0,
+        "url":"https:\/\/github.com\/shiihaa-app\/shiihaa-breath-detection",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"QBE \u2013 Compiler Backend \u2013 1.3",
+        "author":"birdculture",
+        "score":103.0,
+        "url":"https:\/\/c9x.me\/compile\/release\/qbe-1.3.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Shopify outage [resolved]",
+        "author":"harrouet",
+        "score":93.0,
+        "url":"https:\/\/www.shopifystatus.com",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The advertising cartel coming to your web browser",
+        "author":"speckx",
+        "score":241.0,
+        "url":"https:\/\/blog.zgp.org\/the-advertising-cartel-coming-to-your-web-browser\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Economists Are Obsessed with \"Job Creation.\" How about Less Work? (2017)",
+        "author":"downbad_",
+        "score":44.0,
+        "url":"https:\/\/evonomics.com\/less-work-job-creation-peter-gray\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Bringing Up DeepSeek-V4-Flash on AMD MI300X",
+        "author":"kkm",
+        "score":117.0,
+        "url":"https:\/\/fergusfinn.com\/blog\/deepseek-v4-flash-mi300x\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Age verification for social media, the beginning of the end for a free internet?",
+        "author":"StrLght",
+        "score":561.0,
+        "url":"https:\/\/mullvad.net\/en\/blog\/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"CSS-Native Parallax Effect",
+        "author":"dandep",
+        "score":141.0,
+        "url":"https:\/\/dan-webnotes.com\/posts\/2026-06-02-css-native-parallax-effect\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Project Sunrise Nears Reality as Qantas' Airbus A350-1000ULR Makes Maiden Flight",
+        "author":"rbanffy",
+        "score":20.0,
+        "url":"https:\/\/simpleflying.com\/project-sunrise-qantas-a350-1000ulr-maiden-flight\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Phive, a Gomoku-like game to play with friends or solo",
+        "author":"0xCA1EB",
+        "score":16.0,
+        "url":"https:\/\/phive.app",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Why Janet? (2023)",
+        "author":"yacin",
+        "score":486.0,
+        "url":"https:\/\/ianthehenry.com\/posts\/why-janet\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"AI has a water problem. Google thinks it has a fix",
+        "author":"Brajeshwar",
+        "score":4.0,
+        "url":"https:\/\/www.theverge.com\/policy\/942296\/google-water-commitments-data-centers",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Loading Sega Games Off a Vinyl Record [video]",
+        "author":"zdw",
+        "score":40.0,
+        "url":"https:\/\/www.youtube.com\/watch?v=c744iD0_fWU",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"GitHub Copilot App",
+        "author":"theanonymousone",
+        "score":116.0,
+        "url":"https:\/\/github.com\/features\/preview\/github-app",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Nine Ways to Do Inheritance in Rust, a Language Without Inheritance",
+        "author":"pjmlp",
+        "score":10.0,
+        "url":"https:\/\/medium.com\/@carlmkadie\/nine-ways-to-do-inheritance-in-rust-a-language-without-inheritance-14825bf1e215",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Launch HN: Rudus (YC P26) \u2013 AI for concrete contractors",
+        "author":"rishipankhaniya",
+        "score":37.0,
+        "url":null,
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Goldman Sachs CEO says markets in 'greed' mode as AI companies seek billions",
+        "author":"1vuio0pswjnm7",
+        "score":20.0,
+        "url":"https:\/\/www.cnbc.com\/2026\/06\/02\/goldman-ceo-david-solomon-greed-mode-ai-firms-ipos.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Love systemd timers",
+        "author":"yacin",
+        "score":382.0,
+        "url":"https:\/\/blog.tjll.net\/you-dont-love-systemd-timers-enough\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Can the stockmarket swallow Anthropic, SpaceX and OpenAI?",
+        "author":"1vuio0pswjnm7",
+        "score":700.0,
+        "url":"https:\/\/www.economist.com\/finance-and-economics\/2026\/06\/01\/can-the-stockmarket-swallow-anthropic-spacex-and-openai",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"What appear to be biochemical processes may be a natural feature of geology",
+        "author":"speckx",
+        "score":269.0,
+        "url":"https:\/\/www.quantamagazine.org\/the-dirt-that-refused-to-die-20260601\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"CQL: Categorical Databases",
+        "author":"noworriesnate",
+        "score":107.0,
+        "url":"https:\/\/categoricaldata.net\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: RePlaya \u2013 self-hosted browser session replay with live tailing",
+        "author":"shikhar",
+        "score":45.0,
+        "url":"https:\/\/github.com\/s2-streamstore\/replaya",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Reviving Teletext for Ham Radio",
+        "author":"yarapavan",
+        "score":72.0,
+        "url":"https:\/\/spectrum.ieee.org\/reviving-teletext-for-ham-radio",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"A walking tour of surveillance infrastructure in Seattle (2020)",
+        "author":"eustoria",
+        "score":403.0,
+        "url":"https:\/\/coveillance.org\/a-walking-tour-of-surveillance-infrastructure-in-seattle\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Codex Discovered a Hidden HTTP\/2 Bomb",
+        "author":"Yenrabbit",
+        "score":44.0,
+        "url":"https:\/\/blog.calif.io\/p\/codex-discovered-a-hidden-http2-bomb",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Launch HN: Expanse (YC P26) \u2013 Unlock Wasted GPU Capacity",
+        "author":"ismaeel_bashir",
+        "score":98.0,
+        "url":null,
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"MP3s from Google Drive in Music Assistant on Home Assistant",
+        "author":"tomayac",
+        "score":24.0,
+        "url":"https:\/\/blog.tomayac.com\/2026\/05\/30\/your-mp3s-from-google-drive-in-music-assistant-on-home-assistant\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"BQN: What Is a Primitive?",
+        "author":"tosh",
+        "score":41.0,
+        "url":"https:\/\/mlochbaum.github.io\/BQN\/commentary\/primitive.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Expanding Project Glasswing",
+        "author":"surprisetalk",
+        "score":176.0,
+        "url":"https:\/\/www.anthropic.com\/news\/expanding-project-glasswing",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Strace-ui, Bonsai_term, and the TUI renaissance",
+        "author":"matt_d",
+        "score":152.0,
+        "url":"https:\/\/blog.janestreet.com\/strace-ui-bonsai-term-and-the-tui-renaissance\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Jonathan Franzen on Talent, Theatre, and His Next Novel",
+        "author":"samclemens",
+        "score":16.0,
+        "url":"https:\/\/www.newyorker.com\/books\/this-week-in-fiction\/jonathan-franzen-06-08-26",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Ask HN: Who is hiring? (June 2026)",
+        "author":"whoishiring",
+        "score":234.0,
+        "url":null,
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"macOS needs its grid back",
+        "author":"ranebo",
+        "score":394.0,
+        "url":"https:\/\/blog.hopefullyuseful.com\/blog\/macos-needs-its-grid-back\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"MAI-Thinking-1",
+        "author":"LER0ever",
+        "score":191.0,
+        "url":"https:\/\/microsoft.ai\/news\/introducing-mai-thinking-1\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"YouTube overtakes Netflix in average daily viewing around the world",
+        "author":"novaRom",
+        "score":8.0,
+        "url":"https:\/\/www.theguardian.com\/technology\/2026\/jun\/03\/youtube-overtakes-netflix-in-average-daily-viewing-around-the-world",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Fooling around with encrypted reasoning blobs",
+        "author":"supermatou",
+        "score":161.0,
+        "url":"https:\/\/blog.cryptographyengineering.com\/2026\/05\/29\/fooling-around-with-encrypted-reasoning-blobs\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"I made my phone slow on purpose",
+        "author":"gcampos",
+        "score":236.0,
+        "url":"https:\/\/vinewallapp.com\/notes\/i-made-my-phone-slow-on-purpose\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Running 'Doom' on E. coli cells slowly",
+        "author":"chakintosh",
+        "score":17.0,
+        "url":"https:\/\/www.popsci.com\/science\/doom-e-coli-cells\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Japan declines to join movement to ban youth from social media",
+        "author":"BaudouinVH",
+        "score":45.0,
+        "url":"https:\/\/www.asahi.com\/ajw\/articles\/16615541",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Why Custom Attributes in .NET Give Me Nightmares",
+        "author":"jandeboevrie",
+        "score":96.0,
+        "url":"https:\/\/blog.washi.dev\/posts\/custom-attributes-and-why-they-suck\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Rsync and outrage",
+        "author":"st3fan",
+        "score":145.0,
+        "url":"https:\/\/medium.com\/@tridge60\/rsync-and-outrage-d9849599e5a0",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Gleam v1.17.0",
+        "author":"figbert",
+        "score":127.0,
+        "url":"https:\/\/gleam.run\/news\/single-file-gleam-beam-programs-with-escript\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"How is Groq raising more money?",
+        "author":"hasheddan",
+        "score":152.0,
+        "url":"https:\/\/www.zach.be\/p\/how-the-hell-is-groq-raising-more",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Three Ways to Get Paid (2018)",
+        "author":"nate",
+        "score":222.0,
+        "url":"https:\/\/jasonzweig.com\/three-ways-to-get-paid\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Ladder Paradox",
+        "author":"thunderbong",
+        "score":6.0,
+        "url":"https:\/\/www.desmos.com\/notebook\/qq6cjzpykh\/view",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Apple rejected my dictation app for using the accessibility API",
+        "author":"RZelaya",
+        "score":309.0,
+        "url":"https:\/\/www.mitmllc.com\/blog\/apple-rejected-my-dictation-app\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"GitLab cuts 14% of staff as it scales its platform to serve AI workloads",
+        "author":"01-_-",
+        "score":6.0,
+        "url":"https:\/\/techcrunch.com\/2026\/06\/03\/gitlab-cuts-14-of-staff-as-it-scales-its-platform-to-serve-ai-workloads\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Amazon-owned Ring should pay Americans for scanning their faces, lawsuit says",
+        "author":"01-_-",
+        "score":5.0,
+        "url":"https:\/\/arstechnica.com\/tech-policy\/2026\/06\/amazon-owned-ring-should-pay-americans-for-scanning-their-faces-lawsuit-says\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Agentic Mfw",
+        "author":"elmerland",
+        "score":199.0,
+        "url":"https:\/\/agenticmotherfucking.website",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Paseo \u2013 Beautiful open-source coding agent interface",
+        "author":"timhigins",
+        "score":80.0,
+        "url":"https:\/\/github.com\/getpaseo\/paseo",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Counterfeit G.Skill and V-Color DDR5 modules hit Chinese marketplaces",
+        "author":"speckx",
+        "score":5.0,
+        "url":"https:\/\/www.tomshardware.com\/pc-components\/dram\/counterfeit-g-skill-and-v-color-ddr5-modules-hit-chinese-marketplaces-impacting-company-sales-cheap-contraband-memory-using-identical-pcbs-and-heat-spreaders-almost-impossible-to-spot",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"How long will it take to rebuild Blue Origin's launch pad?",
+        "author":"rbanffy",
+        "score":14.0,
+        "url":"https:\/\/arstechnica.com\/space\/2026\/06\/how-long-will-it-take-to-rebuild-blue-origins-launch-pad-we-asked-some-spacex-vets\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Windows GOG DOS Games on M-Series Macs",
+        "author":"f055",
+        "score":167.0,
+        "url":"https:\/\/f055.net\/technology\/windows-gog-dos-games-on-m-series-macs\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Nvidia RTX Spark",
+        "author":"shenli3514",
+        "score":424.0,
+        "url":"https:\/\/www.nvidia.com\/en-us\/products\/rtx-spark\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Decades of Effort Restore Steelhead and Salmon Passage on Alameda Creek",
+        "author":"rawgabbit",
+        "score":240.0,
+        "url":"https:\/\/www.fisheries.noaa.gov\/feature-story\/decades-effort-restore-steelhead-and-salmon-passage-californias-alameda-creek",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Ask HN: Who wants to be hired? (June 2026)",
+        "author":"whoishiring",
+        "score":143.0,
+        "url":null,
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Chipotlai Max",
+        "author":"nigelgutzmann",
+        "score":388.0,
+        "url":"https:\/\/github.com\/cyberpapiii\/chipotlai-max",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Alphabet announces $80B equity capital raise to expand AI infra and compute",
+        "author":"gregschlom",
+        "score":251.0,
+        "url":"https:\/\/abc.xyz\/investor\/news\/news-details\/2026\/Alphabet-Announces-Proposed-80-Billion-Equity-Capital-Raise-to-Expand-AI-Infrastructure-and-Compute-2026-b0myAMewCa\/default.aspx",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"OpenAI frontier models and Codex are now available on AWS",
+        "author":"typpo",
+        "score":363.0,
+        "url":"https:\/\/openai.com\/index\/openai-frontier-models-and-codex-are-now-available-on-aws\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Rethinking search as code generation",
+        "author":"1zael",
+        "score":72.0,
+        "url":"https:\/\/research.perplexity.ai\/articles\/rethinking-search-as-code-generation",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Flipper Zero Zig Template",
+        "author":"Nars088",
+        "score":156.0,
+        "url":"https:\/\/github.com\/NishantJoshi00\/flipper-template",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Ad Infini\u00adTum",
+        "author":"yurivish",
+        "score":14.0,
+        "url":"https:\/\/matthiasott.com\/notes\/ad-infinitum",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Made a Tool to Streams Changes from Microsoft SQL Server to Apache Kafka",
+        "author":"hyvr_official",
+        "score":16.0,
+        "url":"https:\/\/github.com\/Niyko\/Athena",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Now AI agents need what RSS does",
+        "author":"julienreszka",
+        "score":82.0,
+        "url":"https:\/\/julienreszka.com\/blog\/rss-is-back-ai-agents-are-reading-it\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"End of Civilization News",
+        "author":"jjgreen",
+        "score":17.0,
+        "url":"https:\/\/www.math.columbia.edu\/~woit\/wordpress\/?p=15705",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Thanks to Robots, Ukraine Is Now Talking About Winning, Not Just Surviving",
+        "author":"m463",
+        "score":8.0,
+        "url":"https:\/\/www.defenseone.com\/technology\/2026\/06\/ukraine-robots-winning\/413902\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"A 10 year old Xeon is all you need",
+        "author":"cafkafk",
+        "score":724.0,
+        "url":"https:\/\/point.free\/blog\/gemma-4-on-a-2016-xeon\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Tracing HTTP Requests with Go's net\/HTTP\/httptrace",
+        "author":"speckx",
+        "score":185.0,
+        "url":"https:\/\/blainsmith.com\/articles\/httptrace-with-go\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Marcia Lucas, Oscar-Winning Editor Behind 'Star Wars,' Dies at 80",
+        "author":"bookofjoe",
+        "score":4.0,
+        "url":"https:\/\/www.hollywoodreporter.com\/movies\/movie-news\/marcia-lucas-dead-star-wars-george-lucas-1236609196\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Linux Basics for Hackers (2019)",
+        "author":"ibobev",
+        "score":171.0,
+        "url":"https:\/\/github.com\/ahegazy0\/linux-basics-for-hackers-notes",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Florida sues OpenAI and Sam Altman over AI risks",
+        "author":"cyunker",
+        "score":267.0,
+        "url":"https:\/\/www.politico.com\/news\/2026\/06\/01\/openai-hit-with-florida-lawsuit-00944215",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: Build Your Own AI Agent CLI in 150 Lines",
+        "author":"asim",
+        "score":29.0,
+        "url":"https:\/\/go-micro.dev\/blog\/11",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"WinUtils: Shell-powered CLI tools for Windows 95",
+        "author":"code_naked",
+        "score":15.0,
+        "url":"https:\/\/www.codenaked.com\/winutils",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"A new way to build chips: Sequentially stacking silicon to extend Moore's Law",
+        "author":"hhs",
+        "score":82.0,
+        "url":"https:\/\/matse.illinois.edu\/news\/85775",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Pyro Caml Continuous Profiler for OCaml",
+        "author":"j12y",
+        "score":26.0,
+        "url":"https:\/\/semgrep.dev\/blog\/2026\/announcing-pyro-caml-continuous-profiler-ocaml\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Review of the MoErgo Glove80 Keyboard (2024)",
+        "author":"akyuu",
+        "score":20.0,
+        "url":"https:\/\/arslan.io\/2024\/04\/22\/review-of-the-moergo-glove80-keyboard\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Microsoft builds MacBook Pro rival with NVIDIA-powered Surface Laptop Ultra",
+        "author":"jbk",
+        "score":285.0,
+        "url":"https:\/\/www.windowslatest.com\/2026\/06\/01\/microsoft-builds-its-ultimate-macbook-pro-rival-with-the-nvidia-powered-surface-laptop-ultra\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"More than 6 out of 10 people turn to AI for psychological support",
+        "author":"mgh2",
+        "score":80.0,
+        "url":"https:\/\/www.axa.com\/en\/press\/press-releases\/2026-mind-health-report",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Pirate Bay Remains Resilient, 20 Years After the Raid",
+        "author":"speckx",
+        "score":626.0,
+        "url":"https:\/\/torrentfreak.com\/the-pirate-bay-remains-resilient-20-years-after-the-raid\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Patterns of Structure and Argument: a guide to mathematical thinking(2017) [pdf]",
+        "author":"nill0",
+        "score":13.0,
+        "url":"https:\/\/www.ux1.eiu.edu\/~cidelman\/Research\/foundationsbook.pdf",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Malicious npm packages detected across Red Hat Cloud Services",
+        "author":"kurmiashish",
+        "score":769.0,
+        "url":"https:\/\/github.com\/RedHatInsights\/javascript-clients\/issues\/492",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"CLI tool that packages data science projects for LLM context windows",
+        "author":"ArianM",
+        "score":15.0,
+        "url":"https:\/\/github.com\/arianmokhtariha\/data2prompt",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Coreutils for Windows",
+        "author":"gigel82",
+        "score":218.0,
+        "url":"https:\/\/github.com\/microsoft\/coreutils",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Anthropic confidentially submits draft S-1 to the SEC",
+        "author":"surprisetalk",
+        "score":529.0,
+        "url":"https:\/\/www.anthropic.com\/news\/confidential-draft-s1-sec",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"AI Agent Guidelines for CS336 at Stanford",
+        "author":"prakashqwerty",
+        "score":499.0,
+        "url":"https:\/\/github.com\/stanford-cs336\/assignment1-basics\/blob\/main\/CLAUDE.md",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Privacy isn't dead: it's just that tech companies have made it inconvenient",
+        "author":"latein",
+        "score":36.0,
+        "url":"https:\/\/inforrm.org\/2026\/06\/02\/privacy-isnt-dead-its-just-that-tech-companies-have-made-it-inconvenient-sandra-matz\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Should you normalize RGB values by 255 or 256?",
+        "author":"pplanu",
+        "score":328.0,
+        "url":"https:\/\/30fps.net\/pages\/255-vs-256-division\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Toy Story 5 shows 'terror' of children's screen addiction, says Tom Hanks",
+        "author":"defrost",
+        "score":62.0,
+        "url":"https:\/\/www.bbc.com\/news\/articles\/cy5222wn410o",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Cloudflare Turnstile requiring fingerprintable WebGL",
+        "author":"HypnoticOcelot",
+        "score":781.0,
+        "url":"https:\/\/hacktivis.me\/articles\/cloudflare-turnstile-webgl-fingerprinting",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Stealing from Biologists to Compile Haskell Faster",
+        "author":"mooreds",
+        "score":135.0,
+        "url":"https:\/\/www.iankduncan.com\/engineering\/2026-05-30-stealing-from-biologists-to-compile-haskell-faster\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Debug Project",
+        "author":"Eridanus2",
+        "score":273.0,
+        "url":"https:\/\/debug.com\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Texas Adds Another Solar Farm as Ercot Grid Demand Soars",
+        "author":"m463",
+        "score":23.0,
+        "url":"https:\/\/electrek.co\/2026\/06\/01\/texas-adds-another-huge-solar-farm-ercot-grid-demand-soars\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"U.S. midterms have a cyber problem, but it's not at the ballot box",
+        "author":"gnabgib",
+        "score":75.0,
+        "url":"https:\/\/blog.checkpoint.com\/exposure-management\/the-2026-u-s-midterms-have-a-cyber-problem-but-its-not-at-the-ballot-box\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Skillhound: Give your AI access to every public SKILL.md",
+        "author":"mfkhalil",
+        "score":10.0,
+        "url":"https:\/\/www.skillhound.ai\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Sysadmining Like It's 2009",
+        "author":"yacin",
+        "score":104.0,
+        "url":"https:\/\/lambdacreate.com\/posts\/sysadmining-like-its-2009",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Key chemistry question answered, no quantum computer required",
+        "author":"defrost",
+        "score":32.0,
+        "url":"https:\/\/www.quantamagazine.org\/key-chemistry-question-answered-no-quantum-computer-required-20260529\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Amazon faces class action lawsuit over Ring facial-recognition feature",
+        "author":"rolph",
+        "score":46.0,
+        "url":"https:\/\/techcrunch.com\/2026\/06\/02\/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"EU Parliament to Ditch Google for European Alternative Qwant",
+        "author":"raffael_de",
+        "score":9.0,
+        "url":"https:\/\/www.euractiv.com\/news\/european-parliament-to-ditch-google-for-european-alternative\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Missing worker at Los Alamos National Laboratory found dead in remote forest",
+        "author":"sizzle",
+        "score":24.0,
+        "url":"https:\/\/www.latimes.com\/world-nation\/story\/2026-06-02\/missing-worker-at-high-security-lab-in-n-m-found-dead-in-remote-forest",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"BPF support in GCC 16 and beyond",
+        "author":"tuananh",
+        "score":16.0,
+        "url":"https:\/\/lwn.net\/SubscriberLink\/1071973\/19e2866f07249dfb\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: A crowdsourced map of surveillance camera's based on OSM",
+        "author":"pietervdvn",
+        "score":6.0,
+        "url":"https:\/\/mapcomplete.org\/surveillance?z=0.5&lon=12.732776",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Announcing Zstandard in Rust",
+        "author":"jmillikin",
+        "score":61.0,
+        "url":"https:\/\/trifectatech.org\/blog\/announcing-zstandard-in-rust\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Europe unveils tech sovereignty package amid concerns over reliance on U.S. tech",
+        "author":"root-parent",
+        "score":11.0,
+        "url":"https:\/\/www.cnbc.com\/2026\/06\/03\/europe-tech-sovereignty-us-tech-reliance.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Handmade Hawaiian Islands Map",
+        "author":"bovermyer",
+        "score":76.0,
+        "url":"https:\/\/www.notesfromtheroad.com\/roam\/hawaiian-islands-map.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Having your insulin pump die while you're on vacation",
+        "author":"speckx",
+        "score":195.0,
+        "url":"https:\/\/blog.lauramichet.com\/what-its-like-to-have-the-machine-that-keeps-you-alive-die-while-youre-on-vacation\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Cessation of public development of Kefir C compiler",
+        "author":"f311a",
+        "score":138.0,
+        "url":"https:\/\/kefir.protopopov.lv\/posts\/announce2.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Using Git's rerere feature to escape recurring conflict hell",
+        "author":"ankitg12",
+        "score":96.0,
+        "url":"https:\/\/gist.github.com\/skipcloud\/f1033afb4fa5681d69fa63458cc95928",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Only 17% of all 64-bit Integers are products of two 32-bit integers",
+        "author":"sebg",
+        "score":226.0,
+        "url":"https:\/\/lemire.me\/blog\/2026\/05\/22\/only-17-of-all-64-bit-integers-are-products-of-two-32-bit-integers\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Crystal Nights (2008)",
+        "author":"rorylawless",
+        "score":65.0,
+        "url":"https:\/\/www.gregegan.net\/MISC\/CRYSTAL\/Crystal.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"SaySynth: A Brief History of Speaking Machines",
+        "author":"evakhoury",
+        "score":14.0,
+        "url":"https:\/\/brian.abelson.live\/log\/2025\/12\/20\/saysynth-composition-codes.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Genius of the Barn Owl's Feathers",
+        "author":"EA-3167",
+        "score":98.0,
+        "url":"https:\/\/thereader.mitpress.mit.edu\/the-genius-of-the-barn-owls-feathers\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Git Has a Variable Named false_but_the_compiler_does_not_know_it",
+        "author":"sohkamyung",
+        "score":7.0,
+        "url":"https:\/\/blog.codingconfessions.com\/p\/false-but-the-compiler-does-not-know-it",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: A CSS 3D Engine (no WebGL)",
+        "author":"rofko",
+        "score":78.0,
+        "url":"https:\/\/github.com\/LayoutitStudio\/polycss",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Domain expertise has always been the real moat",
+        "author":"aaronbrethorst",
+        "score":870.0,
+        "url":"https:\/\/www.brethorsting.com\/blog\/2026\/05\/domain-expertise-has-always-been-the-real-moat\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Clothing, not air conditioning, should be 1st layer of response to extreme heat",
+        "author":"rustoo",
+        "score":16.0,
+        "url":"https:\/\/indianexpress.com\/article\/opinion\/columns\/heat-wave-air-conditioning-extreme-heat-zomato-swiggy-school-10718268\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"WH proposes rules giving political appointees final approval on research grants",
+        "author":"jordanpg",
+        "score":314.0,
+        "url":"https:\/\/www.scientificamerican.com\/article\/white-house-proposes-new-rules-giving-political-appointees-final-say-on-research-grants\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Speed of Prototyping in the Age of AI",
+        "author":"mooreds",
+        "score":199.0,
+        "url":"https:\/\/darylcecile.net\/notes\/speed-of-prototyping-age-of-ai",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Show HN: 100cc - Roll your own Claude in 100 lines",
+        "author":"rapiz",
+        "score":10.0,
+        "url":"https:\/\/github.com\/yujqiao\/100cc",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Publishers in UK can opt out of Google AI search results",
+        "author":"todd-davies",
+        "score":10.0,
+        "url":"https:\/\/www.bbc.co.uk\/news\/articles\/c775pp26yz5o",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The Bluesky firehose if everyone was messaging you",
+        "author":"4lx87",
+        "score":7.0,
+        "url":"https:\/\/hah.spencer.place\/messages",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Back to the Metal",
+        "author":"bertdc",
+        "score":10.0,
+        "url":"https:\/\/betocmn.com\/blog\/back-to-the-metal\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Restartable Sequences",
+        "author":"grappler",
+        "score":253.0,
+        "url":"https:\/\/justine.lol\/rseq\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Chuwi Minibook X",
+        "author":"thcipriani",
+        "score":402.0,
+        "url":"https:\/\/tylercipriani.com\/blog\/2026\/05\/28\/chuwi-minibook-x\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Are blue zones real? Answering that question is harder then ever",
+        "author":"mfld",
+        "score":53.0,
+        "url":"https:\/\/www.statnews.com\/2026\/05\/04\/are-blue-zones-real-new-scrutiny-longevity-hot-spots\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Unix in East Germany (GDR) (1990)",
+        "author":"downbad_",
+        "score":114.0,
+        "url":"https:\/\/groups.google.com\/g\/comp.unix.wizards\/c\/QX_dxElrVNs",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"On the nature of autobiographical memory",
+        "author":"prismatic",
+        "score":21.0,
+        "url":"https:\/\/theamericanscholar.org\/you-must-remember-this\/",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"The S in Interoperability",
+        "author":"conslit",
+        "score":16.0,
+        "url":"https:\/\/frederikbraun.de\/the-s-in-interoperability.html",
+        "source":"HackerNews",
+        "link":null
+    },
+    {
+        "title":"Ultrahuman says hackers accessed customers\u2019 wellness data via internal tool",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/ultrahuman-says-hackers-accessed-customers-wellness-data-via-internal-tool\/"
+    },
+    {
+        "title":"Carvana ties up with Bezos-backed Slate Auto as it plans new car sales",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/carvana-ties-up-with-bezos-backed-slate-auto-as-it-plans-new-car-sales\/"
+    },
+    {
+        "title":"Instagram is alerting users who were targeted by hackers during AI chatbot attacks",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/instagram-is-alerting-users-who-were-targeted-by-hackers-during-ai-chatbot-attacks\/"
+    },
+    {
+        "title":"Amazon will show AI product images when you search for some reason",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/amazon-will-show-ai-product-images-when-you-search-for-some-reason\/"
+    },
+    {
+        "title":"Still facing copyright lawsuits, AI music generator Suno raises another $400M",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/still-facing-copyright-lawsuits-ai-music-generator-suno-raises-another-400m\/"
+    },
+    {
+        "title":"These two founders left Goldman and Meta to build voice AI for markets everyone else overlooked",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/these-two-founders-left-goldman-and-meta-to-build-voice-ai-for-markets-everyone-else-overlooked\/"
+    },
+    {
+        "title":"Publishers will be able to opt out of AI Search, thanks to new regulation",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/publishers-will-be-able-to-opt-out-of-ai-search-thanks-to-new-regulation\/"
+    },
+    {
+        "title":"TikTok launches TikTok Pro Events, an app for cultural moments like the FIFA World Cup",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/tiktok-launches-tiktok-pro-events-an-app-for-cultural-moments-like-the-fifa-world-cup\/"
+    },
+    {
+        "title":"The worst hacks and breaches of 2026 (so far)",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/the-worst-hacks-and-breaches-of-2026-so-far\/"
+    },
+    {
+        "title":"Meet Wander, a StumbleUpon-inspired tool for discovering the \u2018small web\u2019",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/meet-wander-a-stumbleupon-inspired-tool-for-discovering-the-small-web\/"
+    },
+    {
+        "title":"Meta\u2019s AI agent for WhatsApp Business is now available globally",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/metas-ai-agent-for-whatsapp-business-is-now-available-globally\/"
+    },
+    {
+        "title":"Coralogix raises $200M on bet that someone needs to watch the AI agents",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/coralogix-raises-200m-in-race-to-build-the-monitoring-layer-for-ai-agents\/"
+    },
+    {
+        "title":"Plex adds new social features ahead of a major price hike for its lifetime pass",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/plex-launches-new-social-features-amid-a-major-price-hike\/"
+    },
+    {
+        "title":"The world\u2019s largest privately owned laser just turned on",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/03\/the-worlds-largest-privately-owned-laser-just-turned-on\/"
+    },
+    {
+        "title":"Squishmallows, dentures, and an \u2018I Heart Hot Dads\u2019 bag: Uber has found thousands of items left in robotaxis",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/02\/squishmallows-dentures-and-an-i-heart-hot-dads-bag-uber-has-found-thousands-of-items-left-in-robotaxis\/"
+    },
+    {
+        "title":"Cyera eyes $12B valuation at 80x ARR multiple despite operating losses",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/02\/cyera-eyes-12b-valuation-at-80x-arr-multiple-despite-operating-losses\/"
+    },
+    {
+        "title":"Cyberdecks are having a moment, rejecting big tech surveillance with style and substance",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/02\/cyberdeck-tiktok-trend-reject-big-tech\/"
+    },
+    {
+        "title":"Uber caps employee AI spending after blowing through budget in 4 months",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/02\/uber-caps-employee-ai-spending-after-blowing-through-budget-in-four-months\/"
+    },
+    {
+        "title":"New Microsoft tool lets devs spin up AI behavior tests using text descriptions",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"TechCrunch",
+        "link":"https:\/\/techcrunch.com\/2026\/06\/02\/new-microsoft-tool-lets-devs-spin-up-ai-behavior-tests-using-text-descriptions\/"
+    },
+    {
+        "title":"chopratejas \/\n\n      headroom",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"affaan-m \/\n\n      ECC",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"aquasecurity \/\n\n      trivy",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"NousResearch \/\n\n      hermes-agent",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"microsoft \/\n\n      markitdown",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"nesquena \/\n\n      hermes-webui",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"D4Vinci \/\n\n      Scrapling",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"opendataloader-project \/\n\n      opendataloader-pdf",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"odoo \/\n\n      odoo",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"Open-LLM-VTuber \/\n\n      Open-LLM-VTuber",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"jwasham \/\n\n      coding-interview-university",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"lyogavin \/\n\n      airllm",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"supermemoryai \/\n\n      supermemory",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    },
+    {
+        "title":"HKUDS \/\n\n      Vibe-Trading",
+        "author":null,
+        "score":null,
+        "url":null,
+        "source":"GitHub",
+        "link":null
+    }
+]

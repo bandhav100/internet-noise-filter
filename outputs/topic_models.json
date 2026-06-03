@@ -1,0 +1,22 @@
+{
+    "ai": 15.1,
+    "microsoft": 3.54,
+    "source": 3.46,
+    "agent": 3.36,
+    "google": 3.33,
+    "world": 3.11,
+    "data": 2.81,
+    "windows": 2.72,
+    "clojure": 2.71,
+    "computer": 2.69,
+    "rust": 2.69,
+    "surveillance": 2.49,
+    "browser": 2.42,
+    "real": 2.39,
+    "built": 2.37,
+    "nvidia": 2.29,
+    "uber": 2.27,
+    "search": 2.24,
+    "openai": 2.23,
+    "just": 2.22
+}
