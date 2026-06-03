@@ -14,21 +14,28 @@ An automated trend discovery and intelligence platform that continuously collect
 * Executive market brief generation
 * PDF report generation
 * Interactive Streamlit dashboard
-* Automated execution every 6 hours using Cron
+* Automated execution every 6 hours using GitHub Actions
+* Cloud deployment using Streamlit Community Cloud
+
+---
+
+## Live Demo
+
+https://internet-noise-filter-qwqrbc78dmibtjkz4ut95a.streamlit.app/
 
 ---
 
 ## Architecture
 
-Data Sources
+### Data Sources
 
 * HackerNews
 * RSS Feeds
 * GitHub Trending
 
-Pipeline
+### Pipeline
 
-Data Collection → Data Processing → Trend Analysis → Topic Modeling → AI Insights → Report Generation → Dashboard
+Data Collection → Data Processing → Trend Analysis → Trend Clustering → Topic Modeling → AI Insights → Report Generation → Dashboard
 
 ---
 
@@ -41,7 +48,7 @@ Data Collection → Data Processing → Trend Analysis → Topic Modeling → AI
 ### Data Processing
 
 * Pandas
-* Scikit-learn
+* Scikit-Learn
 
 ### Database
 
@@ -57,7 +64,12 @@ Data Collection → Data Processing → Trend Analysis → Topic Modeling → AI
 
 ### Automation
 
-* Cron Jobs
+* GitHub Actions
+
+### Deployment
+
+* Docker
+* Streamlit Community Cloud
 
 ---
 
@@ -71,10 +83,13 @@ internet-noise-filter/
 ├── dashboard/
 ├── database/
 ├── preprocess/
+├── outputs/
+├── history/
 
 ├── main.py
 ├── run_pipeline.py
 ├── requirements.txt
+├── trend_intelligence.db
 ├── README.md
 ```
 
@@ -82,21 +97,21 @@ internet-noise-filter/
 
 ## Installation
 
-Clone Repository
+### Clone Repository
 
 ```bash
 git clone https://github.com/bandhav100/internet-noise-filter.git
 cd internet-noise-filter
 ```
 
-Create Virtual Environment
+### Create Virtual Environment
 
 ```bash
 python3 -m venv venv
 source venv/bin/activate
 ```
 
-Install Dependencies
+### Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -110,7 +125,7 @@ pip install -r requirements.txt
 python3 run_pipeline.py
 ```
 
-Pipeline Stages
+### Pipeline Stages
 
 1. Collect HackerNews Data
 2. Collect RSS Data
@@ -135,7 +150,7 @@ Pipeline Stages
 streamlit run dashboard/app.py
 ```
 
-Dashboard includes:
+Dashboard Includes:
 
 * Dataset Explorer
 * Database Preview
@@ -149,13 +164,35 @@ Dashboard includes:
 
 ## Automation
 
-The platform automatically runs every 6 hours using Cron.
+The platform automatically executes every 6 hours using GitHub Actions.
 
-Example:
+Workflow:
 
-```bash
-0 */6 * * * python run_pipeline.py
+```text
+GitHub Actions
+      ↓
+run_pipeline.py
+      ↓
+Collect Data
+      ↓
+Analyze Trends
+      ↓
+Generate Reports
+      ↓
+Update Dashboard Data
 ```
+
+---
+
+## Deployment
+
+### Streamlit Cloud
+
+The dashboard is deployed and publicly accessible through Streamlit Community Cloud.
+
+### Docker
+
+Containerized deployment support is included for local and VPS deployments.
 
 ---
 
@@ -163,20 +200,18 @@ Example:
 
 * AI remains the dominant technology trend across monitored sources.
 * NVIDIA continues to play a major role in technology discussions.
-* OpenAI and Anthropic remain key ecosystem drivers.
+* OpenAI remains a key ecosystem driver.
 * GitHub activity indicates growing interest in agentic workflows.
 
 ---
 
 ## Future Improvements
 
-* Docker Deployment
-* VPS Deployment
-* Nginx Reverse Proxy
-* SSL/HTTPS Support
-* CI/CD with GitHub Actions
-* Multi-source Trend Scoring
+* Trend Forecasting
 * Email Alert System
+* API Access
+* User-specific Dashboards
+* Multi-source Trend Scoring Improvements
 
 ---
 
@@ -186,3 +221,4 @@ Bandhav
 
 GitHub:
 https://github.com/bandhav100
+
