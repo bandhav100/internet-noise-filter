@@ -38,4 +38,5 @@ jobs:
 
           git diff --staged --quiet || git commit -m "Auto update data"
 
+
           git push
