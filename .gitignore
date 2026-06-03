@@ -1,14 +1,6 @@
 venv/
 __pycache__/
 *.pyc
-
-logs/
-outputs/
-history/
-data/
-
-trend_intelligence.db
-
 .streamlit/
 
 .env

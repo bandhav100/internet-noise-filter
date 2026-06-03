@@ -2,11 +2,28 @@ import streamlit as st
 import pandas as pd
 import json
 import sqlite3
-
+import os
 # ==========================================
 # PAGE CONFIG
 # ==========================================
+required_files = [
+    "outputs/trend_scores.json",
+    "outputs/source_stats.json",
+    "outputs/source_comparison.json",
+    "outputs/top_trends_v2.json",
+    "outputs/trend_changes.json",
+    "outputs/topic_models.json",
+    "outputs/insights.json",
+    "outputs/executive_brief.txt",
+    "outputs/last_run.txt",
+    "history/trend_history.csv",
+    "trend_intelligence.db"
+]
 
+for file in required_files:
+    if not os.path.exists(file):
+        st.error(f"Missing file: {file}")
+        st.stop()
 st.set_page_config(
     page_title="Trend Intelligence Platform",
     page_icon="|*|",
@@ -14,7 +31,6 @@ st.set_page_config(
 )
 
 st.title("Trend Intelligence Platform")
-
 # ==========================================
 # LOAD JSON FILES
 # ==========================================
