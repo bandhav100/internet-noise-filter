@@ -1,5 +1,5 @@
-AI remains the dominant technology trend with 75 mentions.
-AI discussions increased by 5 points.
-Programming discussions increased by 3 points.
-Security discussions increased by 1 points.
-Startups discussions decreased by 1 points.
+AI remains the dominant technology trend with 84 mentions.
+AI discussions increased by 9 points.
+Programming discussions decreased by 2 points.
+Security discussions increased by 3 points.
+Startups discussions increased by 1 points.
