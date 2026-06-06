@@ -1,37 +1,38 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-06-05
+Date: 2026-06-06
 
 
 TREND SCORES
 
-AI: 72
-Programming: 16
-Security: 14
-Startups: 10
+AI: 70
+Programming: 14
+Security: 15
+Startups: 11
 
 TREND CHANGES
 
-AI: -12
-Programming: -4
-Security: -1
-Startups: 3
+AI: -2
+Programming: -2
+Security: 1
+Startups: 1
 
 TOP TOPICS
 
 ai
-code
 agent
-data
-tech
-time
-claude
 github
-ve
-meta
+tech
+claude
+work
+time
+spacex
+windows
+machine
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Startups is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, agent, github, anthropic.
+- Security is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, agent, github.
+- SpaceX remains a highly visible innovation topic.
