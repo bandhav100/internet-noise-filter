@@ -5,30 +5,30 @@ Date: 2026-06-08
 
 TREND SCORES
 
-AI: 71
+AI: 74
 Programming: 24
-Security: 10
+Security: 11
 Startups: 8
 
 TREND CHANGES
 
-AI: 4
-Programming: 2
-Security: -1
-Startups: -1
+AI: 3
+Programming: 0
+Security: 1
+Startups: 0
 
 TOP TOPICS
 
 ai
 source
-code
-linux
-openai
-llms
-rust
+data
 claude
+openai
+linux
+code
+rust
 vc
-python
+web
 
 AI GENERATED INSIGHTS
 
