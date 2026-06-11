@@ -5,30 +5,30 @@ Date: 2026-06-11
 
 TREND SCORES
 
-AI: 84
+AI: 97
 Programming: 18
-Security: 14
-Startups: 5
+Security: 13
+Startups: 4
 
 TREND CHANGES
 
-AI: 5
+AI: 13
 Programming: 0
-Security: 3
+Security: -1
 Startups: -1
 
 TOP TOPICS
 
 ai
-apple
 data
+anthropic
 claude
 just
-anthropic
 computer
+agent
 code
-model
-rust
+apple
+agents
 
 AI GENERATED INSIGHTS
 
