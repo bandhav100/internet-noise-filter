@@ -1,37 +1,38 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-06-12
+Date: 2026-06-13
 
 
 TREND SCORES
 
-AI: 79
-Programming: 15
-Security: 7
-Startups: 3
+AI: 85
+Programming: 16
+Security: 9
+Startups: 4
 
 TREND CHANGES
 
-AI: -3
-Programming: -4
-Security: 0
-Startups: 0
+AI: 6
+Programming: 1
+Security: 2
+Startups: 1
 
 TOP TOPICS
 
 ai
 game
-spacex
-data
 world
-linux
-claude
-code
 fable
-time
+spacex
+linux
+anthropic
+claude
+just
+source
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
+- AI is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai, anthropic, agent.
 - SpaceX remains a highly visible innovation topic.
