@@ -5,30 +5,30 @@ Date: 2026-06-13
 
 TREND SCORES
 
-AI: 86
-Programming: 16
+AI: 93
+Programming: 18
 Security: 11
-Startups: 3
+Startups: 2
 
 TREND CHANGES
 
-AI: 3
-Programming: 0
-Security: 2
+AI: 7
+Programming: 2
+Security: 0
 Startups: -1
 
 TOP TOPICS
 
 ai
-game
-agent
-world
 fable
-spacex
-linux
-source
-just
+game
 report
+agent
+spacex
+code
+anthropic
+world
+just
 
 AI GENERATED INSIGHTS
 
