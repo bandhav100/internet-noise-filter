@@ -5,17 +5,17 @@ Date: 2026-06-14
 
 TREND SCORES
 
-AI: 94
-Programming: 18
-Security: 11
+AI: 87
+Programming: 19
+Security: 10
 Startups: 3
 
 TREND CHANGES
 
-AI: 1
-Programming: 0
-Security: 0
-Startups: 1
+AI: -7
+Programming: 1
+Security: -1
+Startups: 0
 
 TOP TOPICS
 
@@ -24,15 +24,15 @@ fable
 report
 game
 anthropic
+agents
 agent
 source
-agents
-just
 spacex
+just
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI is the fastest growing trend in the latest analysis cycle.
+- Programming is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai, anthropic, agent.
 - SpaceX remains a highly visible innovation topic.
