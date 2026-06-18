@@ -1,34 +1,34 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-06-17
+Date: 2026-06-18
 
 
 TREND SCORES
 
-AI: 58
-Programming: 19
+AI: 74
+Programming: 21
 Security: 8
-Startups: 8
+Startups: 7
 
 TREND CHANGES
 
-AI: 9
-Programming: 4
-Security: 2
-Startups: 2
+AI: 16
+Programming: 2
+Security: 0
+Startups: -1
 
 TOP TOPICS
 
 ai
 model
-time
-game
-data
-glm
-making
 apple
-models
 world
+making
+iran
+linux
+source
+models
+image
 
 AI GENERATED INSIGHTS
 
