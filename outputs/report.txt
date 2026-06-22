@@ -5,16 +5,16 @@ Date: 2026-06-22
 
 TREND SCORES
 
-AI: 71
-Programming: 22
-Security: 7
-Startups: 8
+AI: 70
+Programming: 25
+Security: 6
+Startups: 7
 
 TREND CHANGES
 
-AI: 3
-Programming: 5
-Security: 2
+AI: -1
+Programming: 3
+Security: -1
 Startups: -1
 
 TOP TOPICS
@@ -22,13 +22,13 @@ TOP TOPICS
 ai
 memory
 anthropic
-don
-game
-built
-linux
 source
+built
+windows
+game
+don
+linux
 systems
-good
 
 AI GENERATED INSIGHTS
 
