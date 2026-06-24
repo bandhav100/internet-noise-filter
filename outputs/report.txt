@@ -5,30 +5,30 @@ Date: 2026-06-24
 
 TREND SCORES
 
-AI: 71
-Programming: 9
+AI: 72
+Programming: 10
 Security: 9
-Startups: 9
+Startups: 5
 
 TREND CHANGES
 
-AI: 4
-Programming: -2
-Security: -5
-Startups: 3
+AI: 1
+Programming: 1
+Security: 0
+Startups: -4
 
 TOP TOPICS
 
 ai
-time
-model
-3d
-meta
 data
-claude
-agents
-memory
+time
 agent
+model
+source
+3d
+design
+machine
+sql
 
 AI GENERATED INSIGHTS
 
