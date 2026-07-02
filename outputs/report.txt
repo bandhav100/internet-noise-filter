@@ -5,32 +5,33 @@ Date: 2026-07-02
 
 TREND SCORES
 
-AI: 55
-Programming: 19
+AI: 59
+Programming: 18
 Security: 10
 Startups: 4
 
 TREND CHANGES
 
-AI: -3
-Programming: 0
+AI: 4
+Programming: -1
 Security: 0
-Startups: -1
+Startups: 0
 
 TOP TOPICS
 
 ai
 code
 fable
-linux
 claude
-source
+linux
 browser
 systems
+source
 old
-time
+google
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
+- AI is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai.
