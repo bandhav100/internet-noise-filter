@@ -5,17 +5,17 @@ Date: 2026-07-04
 
 TREND SCORES
 
-AI: 67
-Programming: 31
-Security: 4
+AI: 66
+Programming: 29
+Security: 3
 Startups: 6
 
 TREND CHANGES
 
-AI: -6
-Programming: 0
-Security: -2
-Startups: -1
+AI: -1
+Programming: -2
+Security: -1
+Startups: 0
 
 TOP TOPICS
 
@@ -23,14 +23,14 @@ ai
 claude
 code
 memory
+mcp
 source
 local
 browser
-claude code
-guide
-learn
+people
+faster
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI discussions are being driven by ai.
+- AI discussions are being driven by ai, agent.
