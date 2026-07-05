@@ -5,33 +5,33 @@ Date: 2026-07-05
 
 TREND SCORES
 
-AI: 71
-Programming: 24
-Security: 5
-Startups: 3
+AI: 72
+Programming: 22
+Security: 6
+Startups: 4
 
 TREND CHANGES
 
-AI: 7
-Programming: -1
-Security: 0
-Startups: 0
+AI: 1
+Programming: -2
+Security: 1
+Startups: 1
 
 TOP TOPICS
 
 ai
-mcp
-people
 claude
-memory
-browser
+mcp
 private
 skills
 button
 white
+browser
+space
+memory
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
 - AI is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai.
+- AI discussions are being driven by ai, agent.
