@@ -5,30 +5,30 @@ Date: 2026-07-06
 
 TREND SCORES
 
-AI: 58
-Programming: 22
-Security: 6
-Startups: 4
+AI: 61
+Programming: 21
+Security: 5
+Startups: 5
 
 TREND CHANGES
 
-AI: 1
+AI: 3
 Programming: -1
-Security: 0
-Startups: 0
+Security: -1
+Startups: 1
 
 TOP TOPICS
 
 ai
-claude
-analysis
-browser
+llms
 agent
-web
-compiler
-code
 home
-learn
+browser
+europe
+xbox
+microsoft
+rust
+claude
 
 AI GENERATED INSIGHTS
 
