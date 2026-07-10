@@ -5,30 +5,30 @@ Date: 2026-07-10
 
 TREND SCORES
 
-AI: 85
-Programming: 27
-Security: 5
+AI: 81
+Programming: 29
+Security: 6
 Startups: 3
 
 TREND CHANGES
 
 AI: -4
-Programming: 1
-Security: -1
+Programming: 2
+Security: 1
 Startups: 0
 
 TOP TOPICS
 
 ai
 agent
-openai
-built
 just
-gpt
-browser
-meta
+built
+openai
+code
 model
-claude
+browser
+models
+meta
 
 AI GENERATED INSIGHTS
 
