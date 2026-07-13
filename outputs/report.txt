@@ -5,30 +5,30 @@ Date: 2026-07-13
 
 TREND SCORES
 
-AI: 70
-Programming: 26
-Security: 8
-Startups: 5
+AI: 66
+Programming: 27
+Security: 9
+Startups: 3
 
 TREND CHANGES
 
-AI: 0
-Programming: 3
-Security: 0
-Startups: 0
+AI: -4
+Programming: 1
+Security: 1
+Startups: -2
 
 TOP TOPICS
 
 ai
-agent
 code
+real
 pdf
-research
+agent
 circular
-claude
-human
+research
+read
 built
-javascript
+robotaxi
 
 AI GENERATED INSIGHTS
 
