@@ -5,15 +5,15 @@ Date: 2026-07-23
 
 TREND SCORES
 
-AI: 91
-Programming: 21
+AI: 87
+Programming: 15
 Security: 13
 Startups: 4
 
 TREND CHANGES
 
 AI: -4
-Programming: -3
+Programming: -6
 Security: 0
 Startups: 0
 
@@ -21,16 +21,16 @@ TOP TOPICS
 
 ai
 claude
-code
 music
+code
 model
 web
-projects
+long
+openai
 human
-running
-know
+data
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI discussions are being driven by ai, agent.
+- AI discussions are being driven by ai, openai, anthropic.
