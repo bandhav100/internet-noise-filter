@@ -5,15 +5,15 @@ Date: 2026-07-24
 
 TREND SCORES
 
-AI: 71
-Programming: 14
-Security: 12
+AI: 70
+Programming: 19
+Security: 11
 Startups: 11
 
 TREND CHANGES
 
-AI: -10
-Programming: 1
+AI: -1
+Programming: 5
 Security: -1
 Startups: 0
 
@@ -21,14 +21,14 @@ TOP TOPICS
 
 ai
 startup
-google
 claude
 chatgpt
 source
-amd
-content
-models
 data
+built
+llms
+files
+models
 
 AI GENERATED INSIGHTS
 
