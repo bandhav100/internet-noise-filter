@@ -5,30 +5,30 @@ Date: 2026-07-25
 
 TREND SCORES
 
-AI: 77
-Programming: 22
-Security: 11
-Startups: 7
+AI: 79
+Programming: 20
+Security: 13
+Startups: 9
 
 TREND CHANGES
 
-AI: 4
-Programming: 2
-Security: -2
-Startups: -1
+AI: 2
+Programming: -2
+Security: 2
+Startups: 2
 
 TOP TOPICS
 
 ai
 claude
-openai
-source
+human
+writing
 models
+people
+book
 code
-opus
-data
-don
-emacs
+openai
+weight
 
 AI GENERATED INSIGHTS
 
