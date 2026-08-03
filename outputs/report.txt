@@ -5,30 +5,30 @@ Date: 2026-08-03
 
 TREND SCORES
 
-AI: 64
-Programming: 21
-Security: 8
-Startups: 4
+AI: 71
+Programming: 30
+Security: 7
+Startups: 5
 
 TREND CHANGES
 
-AI: 3
-Programming: 6
-Security: 1
-Startups: -3
+AI: 7
+Programming: 9
+Security: -1
+Startups: 1
 
 TOP TOPICS
 
 ai
-skill
-apps
 rust
 agent
-memory
-google
-agents
+linux
+apps
+openai
 let
-trying
+skill
+memory
+agents
 
 AI GENERATED INSIGHTS
 
