@@ -5,30 +5,30 @@ Date: 2026-08-06
 
 TREND SCORES
 
-AI: 78
-Programming: 21
-Security: 9
+AI: 71
+Programming: 25
+Security: 8
 Startups: 5
 
 TREND CHANGES
 
-AI: -3
-Programming: 2
-Security: 2
-Startups: -1
+AI: -7
+Programming: 4
+Security: -1
+Startups: 0
 
 TOP TOPICS
 
 ai
 data
-agent
-llms
-memory
 code
-making
+agent
+rust
+memory
+llms
+deepseek
 limits
-benchmark
-model
+making
 
 AI GENERATED INSIGHTS
 
