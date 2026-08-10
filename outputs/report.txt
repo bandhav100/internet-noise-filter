@@ -5,30 +5,30 @@ Date: 2026-08-10
 
 TREND SCORES
 
-AI: 77
-Programming: 17
-Security: 14
+AI: 74
+Programming: 16
+Security: 15
 Startups: 4
 
 TREND CHANGES
 
-AI: -14
-Programming: -3
-Security: 4
-Startups: 3
+AI: -3
+Programming: -1
+Security: 1
+Startups: 0
 
 TOP TOPICS
 
 ai
 code
 agents
-agent
-half
-phone
 source
+half
 11
+phone
+agent
 don
-library
+game
 
 AI GENERATED INSIGHTS
 
