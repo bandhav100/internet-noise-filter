@@ -1,21 +1,21 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-08-10
+Date: 2026-08-11
 
 
 TREND SCORES
 
-AI: 92
-Programming: 20
-Security: 9
-Startups: 6
+AI: 100
+Programming: 18
+Security: 15
+Startups: 4
 
 TREND CHANGES
 
-AI: 16
-Programming: 1
-Security: -6
-Startups: 2
+AI: 8
+Programming: -2
+Security: 6
+Startups: -2
 
 TOP TOPICS
 
@@ -23,12 +23,12 @@ ai
 agent
 claude
 code
-meta
-agents
-data
-phone
-coding
+power
+google
 llm
+local
+model
+agents
 
 AI GENERATED INSIGHTS
 
