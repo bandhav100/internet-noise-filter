@@ -5,17 +5,17 @@ Date: 2026-08-12
 
 TREND SCORES
 
-AI: 92
-Programming: 21
+AI: 87
+Programming: 22
 Security: 9
-Startups: 8
+Startups: 9
 
 TREND CHANGES
 
-AI: 0
-Programming: 2
-Security: 1
-Startups: 0
+AI: -5
+Programming: 1
+Security: 0
+Startups: 1
 
 TOP TOPICS
 
@@ -23,12 +23,12 @@ ai
 llm
 openai
 source
-agent
+nvidia
 programming
-work
 agents
 apple
-company
+letter
+rust
 
 AI GENERATED INSIGHTS
 
