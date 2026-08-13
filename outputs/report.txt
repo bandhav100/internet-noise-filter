@@ -5,34 +5,33 @@ Date: 2026-08-13
 
 TREND SCORES
 
-AI: 78
-Programming: 16
-Security: 14
-Startups: 6
+AI: 74
+Programming: 15
+Security: 12
+Startups: 4
 
 TREND CHANGES
 
-AI: -11
-Programming: 0
-Security: 0
-Startups: 1
+AI: -4
+Programming: -1
+Security: -2
+Startups: -2
 
 TOP TOPICS
 
 ai
-grok
 agent
+grok
 built
-source
-nvidia
-agents
 model
-raises
-faster
+images
+european
+source
+time
+agents
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Startups is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai, agent.
 - NVIDIA continues to play a major role in technology discussions.
