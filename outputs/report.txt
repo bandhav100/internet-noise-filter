@@ -6,29 +6,29 @@ Date: 2026-08-14
 TREND SCORES
 
 AI: 82
-Programming: 16
-Security: 11
+Programming: 17
+Security: 12
 Startups: 3
 
 TREND CHANGES
 
-AI: -4
-Programming: 2
-Security: 0
-Startups: 2
+AI: 0
+Programming: 1
+Security: 1
+Startups: 0
 
 TOP TOPICS
 
 ai
-time
 agent
-memory
-source
 don
-data
-deepseek
-works
 model
+deepseek
+openai
+data
+source
+works
+time
 
 AI GENERATED INSIGHTS
 
