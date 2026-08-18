@@ -5,32 +5,33 @@ Date: 2026-08-18
 
 TREND SCORES
 
-AI: 78
-Programming: 23
-Security: 8
-Startups: 4
+AI: 79
+Programming: 20
+Security: 6
+Startups: 5
 
 TREND CHANGES
 
-AI: -5
-Programming: 0
-Security: -1
-Startups: 0
+AI: 1
+Programming: -3
+Security: -2
+Startups: 1
 
 TOP TOPICS
 
 ai
-data
-github
 coding
+github
 anthropic
-source
-does
+data
+better
+save
 google
-27b
-life
+source
+history
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI discussions are being driven by ai, github, anthropic.
+- AI is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, github, anthropic, agent.
