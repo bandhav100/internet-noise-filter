@@ -5,10 +5,10 @@ Date: 2026-08-22
 
 TREND SCORES
 
-AI: 50
-Programming: 19
+AI: 47
+Programming: 18
 Security: 11
-Startups: 4
+Startups: 3
 
 TREND CHANGES
 
@@ -23,15 +23,14 @@ ai
 model
 claude
 source
-agents
 stop
-linux
-solar
-self
 agent
+self
+time
+better
+web
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
 - AI discussions are being driven by ai, agent.
-- NVIDIA continues to play a major role in technology discussions.
