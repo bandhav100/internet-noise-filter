@@ -8,30 +8,29 @@ TREND SCORES
 AI: 84
 Programming: 15
 Security: 8
-Startups: 13
+Startups: 10
 
 TREND CHANGES
 
-AI: 1
-Programming: 1
+AI: 0
+Programming: 0
 Security: 0
-Startups: 3
+Startups: -3
 
 TOP TOPICS
 
 ai
+apple
+openai
 code
 llm
-startup
-openai
 windows
 sqlite
-apple
-model
+claude
+people
 binary
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Startups is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, openai, agent.
+- AI discussions are being driven by ai, openai.
