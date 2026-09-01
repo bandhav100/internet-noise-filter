@@ -1,37 +1,38 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-08-31
+Date: 2026-09-01
 
 
 TREND SCORES
 
-AI: 50
-Programming: 17
-Security: 11
-Startups: 5
+AI: 66
+Programming: 16
+Security: 9
+Startups: 9
 
 TREND CHANGES
 
-AI: -6
-Programming: -2
-Security: 3
-Startups: 1
+AI: 16
+Programming: -1
+Security: -2
+Startups: 4
 
 TOP TOPICS
 
 ai
-source
 code
 apple
-built
+source
 linux
-chatgpt
-python
-data
 agent
+cloud
+pdf
+data
+state
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Security is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, agent.
+- AI is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, agent, openai.
+- NVIDIA continues to play a major role in technology discussions.
