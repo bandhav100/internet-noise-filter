@@ -5,30 +5,30 @@ Date: 2026-09-04
 
 TREND SCORES
 
-AI: 80
-Programming: 13
-Security: 9
+AI: 72
+Programming: 14
+Security: 11
 Startups: 8
 
 TREND CHANGES
 
-AI: 0
+AI: -8
 Programming: 1
 Security: 2
-Startups: -5
+Startups: 0
 
 TOP TOPICS
 
 ai
 google
-openai
+model
 claude
 world
+design
+people
+openai
+llms
 agents
-making
-model
-astra
-10
 
 AI GENERATED INSIGHTS
 
