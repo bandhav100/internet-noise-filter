@@ -5,17 +5,17 @@ Date: 2026-09-18
 
 TREND SCORES
 
-AI: 89
-Programming: 23
-Security: 15
+AI: 92
+Programming: 24
+Security: 10
 Startups: 0
 
 TREND CHANGES
 
-AI: 4
-Programming: 2
-Security: 4
-Startups: -2
+AI: 3
+Programming: 1
+Security: -5
+Startups: 0
 
 TOP TOPICS
 
@@ -23,12 +23,12 @@ ai
 llms
 model
 openai
-models
 code
+models
+agent
 rust
 built
-google
-agent
+self
 
 AI GENERATED INSIGHTS
 
