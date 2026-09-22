@@ -1,34 +1,34 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-09-21
+Date: 2026-09-22
 
 
 TREND SCORES
 
-AI: 59
-Programming: 15
+AI: 63
+Programming: 14
 Security: 2
 Startups: 5
 
 TREND CHANGES
 
-AI: 8
+AI: 4
 Programming: -1
-Security: -5
-Startups: -1
+Security: 0
+Startups: 0
 
 TOP TOPICS
 
 ai
-google
-jev
-frontier
-model
-coding
 mac
 models
-ads
-death
+google
+frontier
+jev
+model
+coding
+data
+apple
 
 AI GENERATED INSIGHTS
 
