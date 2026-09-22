@@ -5,30 +5,30 @@ Date: 2026-09-22
 
 TREND SCORES
 
-AI: 63
+AI: 66
 Programming: 14
 Security: 2
-Startups: 5
+Startups: 6
 
 TREND CHANGES
 
-AI: 4
-Programming: -1
+AI: 3
+Programming: 0
 Security: 0
-Startups: 0
+Startups: 1
 
 TOP TOPICS
 
 ai
-mac
-models
 google
-frontier
-jev
-model
-coding
-data
 apple
+self
+models
+model
+jev
+built
+data
+mac
 
 AI GENERATED INSIGHTS
 
