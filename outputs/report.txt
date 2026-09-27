@@ -5,30 +5,30 @@ Date: 2026-09-27
 
 TREND SCORES
 
-AI: 95
+AI: 99
 Programming: 14
-Security: 6
-Startups: 6
+Security: 7
+Startups: 5
 
 TREND CHANGES
 
-AI: 7
-Programming: 1
-Security: -2
-Startups: 2
+AI: 4
+Programming: 0
+Security: 1
+Startups: -1
 
 TOP TOPICS
 
 ai
 openai
 agent
-jev
-google
 world
-meta
 agents
-claude
+model
+meta
 code
+jev
+models
 
 AI GENERATED INSIGHTS
 
