@@ -5,33 +5,32 @@ Date: 2026-09-30
 
 TREND SCORES
 
-AI: 75
-Programming: 10
-Security: 8
-Startups: 5
+AI: 70
+Programming: 6
+Security: 6
+Startups: 4
 
 TREND CHANGES
 
-AI: -3
-Programming: -1
-Security: 0
+AI: -5
+Programming: -4
+Security: -2
 Startups: -1
 
 TOP TOPICS
 
 ai
-model
-openai
-jev
 world
+time
+data
+jev
 google
-old
-game
-nvidia
-built
+model
+agents
+startup
+source
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI discussions are being driven by ai, openai.
-- NVIDIA continues to play a major role in technology discussions.
+- AI discussions are being driven by ai.
