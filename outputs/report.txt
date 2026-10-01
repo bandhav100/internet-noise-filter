@@ -5,17 +5,17 @@ Date: 2026-10-01
 
 TREND SCORES
 
-AI: 63
+AI: 62
 Programming: 8
 Security: 5
-Startups: 4
+Startups: 5
 
 TREND CHANGES
 
-AI: -7
-Programming: 2
-Security: -1
-Startups: 0
+AI: -1
+Programming: 0
+Security: 0
+Startups: 1
 
 TOP TOPICS
 
@@ -23,15 +23,16 @@ ai
 jev
 data
 model
-world
-google
 time
+google
 startup
+kids
 game
-agents
+adding
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Programming is the fastest growing trend in the latest analysis cycle.
+- Startups is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai.
+- NVIDIA continues to play a major role in technology discussions.
