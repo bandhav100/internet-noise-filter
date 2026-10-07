@@ -5,30 +5,30 @@ Date: 2026-10-07
 
 TREND SCORES
 
-AI: 75
-Programming: 27
-Security: 10
-Startups: 3
+AI: 94
+Programming: 19
+Security: 5
+Startups: 1
 
 TREND CHANGES
 
-AI: 6
-Programming: 3
-Security: 0
-Startups: 0
+AI: 19
+Programming: -8
+Security: -5
+Startups: -2
 
 TOP TOPICS
 
 ai
+claude
 model
+source
+data
+google
 agent
 rust
-data
-source
-self
-muse
-agents
-best
+smart
+chatgpt
 
 AI GENERATED INSIGHTS
 
