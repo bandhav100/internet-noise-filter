@@ -5,33 +5,33 @@ Date: 2026-10-09
 
 TREND SCORES
 
-AI: 99
-Programming: 13
-Security: 7
-Startups: 4
+AI: 102
+Programming: 15
+Security: 5
+Startups: 3
 
 TREND CHANGES
 
-AI: 0
-Programming: 0
-Security: 1
-Startups: 1
+AI: 3
+Programming: 2
+Security: -2
+Startups: -1
 
 TOP TOPICS
 
 ai
 openai
-claude
 agent
 model
-10
 agents
-built
-web
-machines
+10
+age
+browser
+claude
+data
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Security is the fastest growing trend in the latest analysis cycle.
+- AI is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai, openai, agent.
