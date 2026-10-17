@@ -7,31 +7,31 @@ TREND SCORES
 
 AI: 67
 Programming: 18
-Security: 8
+Security: 9
 Startups: 4
 
 TREND CHANGES
 
-AI: 7
-Programming: 3
-Security: 0
-Startups: 1
+AI: 0
+Programming: 0
+Security: 1
+Startups: 0
 
 TOP TOPICS
 
 ai
 source
-apple
-model
-code
-built
-meta
+opencode
 game
+anthropic
+code
+mac
 claude
-network
+model
+run
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai.
+- Security is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, anthropic.
