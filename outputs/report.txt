@@ -5,30 +5,30 @@ Date: 2026-10-20
 
 TREND SCORES
 
-AI: 68
-Programming: 23
-Security: 9
-Startups: 3
+AI: 70
+Programming: 25
+Security: 8
+Startups: 5
 
 TREND CHANGES
 
-AI: 5
+AI: 2
 Programming: 2
-Security: 0
-Startups: 0
+Security: -1
+Startups: 2
 
 TOP TOPICS
 
 ai
-models
-agents
-revolut
-google
-code
 memory
+models
+model
 time
+code
+linux
+search
 built
-users
+agents
 
 AI GENERATED INSIGHTS
 

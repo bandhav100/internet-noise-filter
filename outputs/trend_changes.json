@@ -1,6 +1,6 @@
 {
-    "AI": 5,
+    "AI": 2,
     "Programming": 2,
-    "Security": 0,
-    "Startups": 0
+    "Security": -1,
+    "Startups": 2
 }
