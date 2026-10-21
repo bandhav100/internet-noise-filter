@@ -5,34 +5,34 @@ Date: 2026-10-21
 
 TREND SCORES
 
-AI: 77
-Programming: 20
-Security: 12
+AI: 72
+Programming: 24
+Security: 13
 Startups: 8
 
 TREND CHANGES
 
-AI: -1
-Programming: -5
-Security: 2
-Startups: 2
+AI: -5
+Programming: 4
+Security: 1
+Startups: 0
 
 TOP TOPICS
 
 ai
 model
-models
-anthropic
-google
-agents
-making
-meta
 code
-memory
+claude
+google
+anthropic
+making
+models
+linux
+built
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Security is the fastest growing trend in the latest analysis cycle.
+- Programming is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai, anthropic.
 - SpaceX remains a highly visible innovation topic.
