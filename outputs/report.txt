@@ -5,29 +5,29 @@ Date: 2026-10-23
 
 TREND SCORES
 
-AI: 89
-Programming: 17
+AI: 92
+Programming: 15
 Security: 15
 Startups: 7
 
 TREND CHANGES
 
-AI: 2
-Programming: 0
+AI: 3
+Programming: -2
 Security: 0
-Startups: -1
+Startups: 0
 
 TOP TOPICS
 
 ai
-agents
 claude
-php
+agents
+22
 model
-making
-code
-world
 emudhra
+code
+php
+world
 openai
 
 AI GENERATED INSIGHTS
