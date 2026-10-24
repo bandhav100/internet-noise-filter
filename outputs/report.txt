@@ -5,30 +5,30 @@ Date: 2026-10-24
 
 TREND SCORES
 
-AI: 91
+AI: 96
 Programming: 15
-Security: 14
-Startups: 15
+Security: 15
+Startups: 12
 
 TREND CHANGES
 
-AI: 10
+AI: 5
 Programming: 0
-Security: 0
-Startups: 1
+Security: 1
+Startups: -3
 
 TOP TOPICS
 
 ai
+google
 agents
 model
 programming
-emudhra
+data
 claude
-source
-game
-php
-google
+nvidia
+emudhra
+models
 
 AI GENERATED INSIGHTS
 
