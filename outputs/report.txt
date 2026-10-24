@@ -5,34 +5,33 @@ Date: 2026-10-24
 
 TREND SCORES
 
-AI: 96
-Programming: 15
-Security: 15
-Startups: 12
+AI: 78
+Programming: 17
+Security: 11
+Startups: 11
 
 TREND CHANGES
 
-AI: 5
-Programming: 0
-Security: 1
-Startups: -3
+AI: -18
+Programming: 2
+Security: -4
+Startups: -1
 
 TOP TOPICS
 
 ai
-google
-agents
 model
+agents
+time
 programming
-data
-claude
-nvidia
+game
+php
+source
 emudhra
-models
+google
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, openai.
-- NVIDIA continues to play a major role in technology discussions.
+- Programming is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, openai, agent.
