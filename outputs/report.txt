@@ -5,30 +5,30 @@ Date: 2026-10-27
 
 TREND SCORES
 
-AI: 66
-Programming: 11
+AI: 77
+Programming: 7
 Security: 11
-Startups: 8
+Startups: 4
 
 TREND CHANGES
 
-AI: 7
+AI: 11
 Programming: -4
-Security: 3
-Startups: -3
+Security: 0
+Startups: -4
 
 TOP TOPICS
 
 ai
-model
 anthropic
-web
-models
+model
 computer
-microsoft
-source
-apple
-old
+models
+web
+raises
+world
+people
+pro
 
 AI GENERATED INSIGHTS
 
