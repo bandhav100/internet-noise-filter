@@ -6,29 +6,29 @@ Date: 2026-11-01
 TREND SCORES
 
 AI: 74
-Programming: 19
+Programming: 20
 Security: 14
 Startups: 4
 
 TREND CHANGES
 
-AI: -1
-Programming: 7
-Security: -3
-Startups: -1
+AI: 0
+Programming: 1
+Security: 0
+Startups: 0
 
 TOP TOPICS
 
 ai
 data
 code
-anthropic
-power
-claude
-computer
-work
-incident
 model
+os
+computer
+claude
+incident
+world
+anthropic
 
 AI GENERATED INSIGHTS
 
