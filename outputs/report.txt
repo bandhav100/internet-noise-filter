@@ -6,29 +6,29 @@ Date: 2026-11-15
 TREND SCORES
 
 AI: 68
-Programming: 16
-Security: 13
-Startups: 10
+Programming: 21
+Security: 10
+Startups: 12
 
 TREND CHANGES
 
-AI: -3
-Programming: 2
-Security: -1
-Startups: 1
+AI: 0
+Programming: 5
+Security: -3
+Startups: 2
 
 TOP TOPICS
 
 ai
 nvidia
-claude
-data
+code
 old
 rust
-huang
-models
+data
 jensen
-security
+source
+modern
+huang
 
 AI GENERATED INSIGHTS
 
