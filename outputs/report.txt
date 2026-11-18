@@ -5,33 +5,34 @@ Date: 2026-11-18
 
 TREND SCORES
 
-AI: 64
-Programming: 27
-Security: 12
-Startups: 0
+AI: 61
+Programming: 30
+Security: 6
+Startups: 4
 
 TREND CHANGES
 
-AI: -6
-Programming: -1
-Security: -10
-Startups: -5
+AI: -3
+Programming: 3
+Security: -6
+Startups: 4
 
 TOP TOPICS
 
 nvidia
 ai
+apple
+microsoft
+google
+model
 source
 code
-huang
-computer
-google
-self
-jensen
-apple
+claude
+models
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
+- Startups is the fastest growing trend in the latest analysis cycle.
 - AI discussions are being driven by ai.
 - NVIDIA continues to play a major role in technology discussions.
