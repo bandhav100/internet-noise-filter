@@ -5,34 +5,34 @@ Date: 2026-11-20
 
 TREND SCORES
 
-AI: 84
-Programming: 24
-Security: 12
-Startups: 3
+AI: 67
+Programming: 21
+Security: 11
+Startups: 6
 
 TREND CHANGES
 
-AI: -2
-Programming: 2
-Security: 1
+AI: -17
+Programming: -3
+Security: -1
 Startups: 3
 
 TOP TOPICS
 
 ai
-anthropic
-code
-source
 data
 models
-agent
-google
+anthropic
 nvidia
-apple
+code
+yc
+google
+browser
+source
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
 - Startups is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, anthropic, agent.
+- AI discussions are being driven by ai, anthropic.
 - NVIDIA continues to play a major role in technology discussions.
