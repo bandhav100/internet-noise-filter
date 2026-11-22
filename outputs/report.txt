@@ -5,34 +5,34 @@ Date: 2026-11-22
 
 TREND SCORES
 
-AI: 69
-Programming: 32
-Security: 11
+AI: 68
+Programming: 31
+Security: 14
 Startups: 6
 
 TREND CHANGES
 
-AI: 5
-Programming: 6
-Security: -3
+AI: -1
+Programming: -1
+Security: 3
 Startups: 0
 
 TOP TOPICS
 
 ai
 data
-code
-models
+riemann
 programming
 source
+code
 hypothesis
-riemann
 riemann hypothesis
-live
+rust
+models
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- Programming is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, agent.
+- Security is the fastest growing trend in the latest analysis cycle.
+- AI discussions are being driven by ai, anthropic, agent.
 - NVIDIA continues to play a major role in technology discussions.
