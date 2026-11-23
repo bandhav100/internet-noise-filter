@@ -1,37 +1,36 @@
 TREND INTELLIGENCE REPORT
 
-Date: 2026-11-22
+Date: 2026-11-23
 
 
 TREND SCORES
 
-AI: 70
-Programming: 29
+AI: 66
+Programming: 28
 Security: 12
 Startups: 5
 
 TREND CHANGES
 
-AI: 2
-Programming: -2
-Security: -2
-Startups: -1
+AI: -4
+Programming: -1
+Security: 0
+Startups: 0
 
 TOP TOPICS
 
 ai
-data
-anthropic
-riemann
-code
 game
+data
+built
+riemann
 testing
-programming
 hypothesis
 riemann hypothesis
+programming
+coding
 
 AI GENERATED INSIGHTS
 
 - AI remains the dominant technology trend across all monitored sources.
-- AI is the fastest growing trend in the latest analysis cycle.
-- AI discussions are being driven by ai, anthropic, agent.
+- AI discussions are being driven by ai.
